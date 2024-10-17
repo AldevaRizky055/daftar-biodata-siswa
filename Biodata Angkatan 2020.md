@@ -62,8 +62,9 @@
     **Agama**  : Budha  
     **TTL**    : Madiun, 3 September 2000  
     **Alamat** : Jl. Sudirman No. 29, Madiun
+    
 
-10. **Nama**   : Sri Rahayu  
+11. **Nama**   : Sri Rahayu  
     **NIM**    : 20240010  
     **JK**     : Perempuan  
     **Agama**  : Islam  
